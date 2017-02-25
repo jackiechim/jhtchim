@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to Peek!
 
-You can use the [editor on GitHub](https://github.com/jackiechim/jhtchim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##_"Wear your sparkle!"_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Peek is a line of everyday wear jewelry with a touch of the new generation and fun!
+
 
 ### Markdown
 
