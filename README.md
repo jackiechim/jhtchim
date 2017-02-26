@@ -1,8 +1,14 @@
 # Welcome to Peek!
 
 ##_"Wear your sparkle!"_
+<<<<<<< Updated upstream
 
 ###Peek is a line of everyday wear jewelry with a touch of the new generation and fun!
+=======
+
+###Peek is a line of everyday wear jewelry with a touch of the new generation and fun!
+
+>>>>>>> Stashed changes
 
 
 ### About the Designer!
